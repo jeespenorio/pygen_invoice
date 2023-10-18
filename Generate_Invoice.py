@@ -62,7 +62,7 @@ st.markdown(html_and_css, unsafe_allow_html=True)
 
 # Streamlit UI
 st.markdown("<h2 style='text-align: center;'>Good Company Invoice Generator</h2>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>Version 1.0.19 App</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Version 1.0.24 App</p>", unsafe_allow_html=True)
 
 #====================================================================================================================================
 # Create a navigation menu in the sidebar
